@@ -1,1 +1,4 @@
+scala-2.11/
+streams/
 target/
+.history
